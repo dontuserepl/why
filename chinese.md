@@ -1,3 +1,9 @@
+---
+title: 中文翻译 (Chinese Translation)
+layout: home
+nav_order: 5
+---
+
 Replit（也称为Repl.it）是一个具有活跃而蓬勃发展（也有衰败）社区的免费在线IDE。
 
 ## 我们是谁？
