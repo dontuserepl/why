@@ -1,7 +1,10 @@
 ---
 title: Why you should not use replit.com - English
 layout: home
+nav_order: 1
 ---
+
+**Translations**: [EN](/) | [ES](/spanish.html)
 
 Replit (also Repl.it) is a free online IDE with an active thriving (and dying) community..
 
@@ -23,7 +26,7 @@ What is riju? Riju is similar to [Try It Online (TIO)](https://tio.run/), just r
 Then threatened the poor lad with a lawsuit, even though other websites which does the same thing exist online. Amjad was deeply hurt as Radon was a "demanding" intern and he felt betrayed.
 ![](https://intuitiveexplanations.com/assets/replit-email-5.png)
 
-Of course, after being [viciously torn to shreads](https://news.ycombinator.com/item?id=27424195) on Y Combinator, Amjad comes crawling back and setups a phone call with Radon and gives his permission to publish riju.codes because he the owner of all IDEs online. 
+Of course, after being [viciously torn to shreads](https://news.ycombinator.com/item?id=27424195) on Y Combinator, Amjad comes crawling back and setups a phone call with Radon and gives his permission to publish riju.codes because he is clearly the owner of all IDEs online and we should bow down to the holy Amjad.
 
 ![](https://intuitiveexplanations.com/assets/replit-email-9.png)
 
