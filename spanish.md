@@ -1,6 +1,7 @@
 ---
 title: Traducción Española
 layout: home
+nav_order: 2
 ---
 
 Replit (también Repl.it) es un IDE en línea gratuito con una comunidad activa y próspera (y en decadencia).
