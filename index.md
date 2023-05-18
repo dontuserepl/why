@@ -28,10 +28,10 @@ Of course, after being [viciously torn to shreads](https://news.ycombinator.com/
 ![](https://intuitiveexplanations.com/assets/replit-email-9.png)
 
 ## Sources
-- https://dev.to/dillonb07/the-state-of-replit-32en
-- https://discord.com/channels/437048931827056642/1001500293441257512/1072562607480909966
-- https://intuitiveexplanations.com/tech/replit
-- https://news.ycombinator.com/item?id=27424195
+- [https://dev.to/dillonb07/the-state-of-replit-32en](https://dev.to/dillonb07/the-state-of-replit-32en)
+- [https://discord.com/channels/437048931827056642/1001500293441257512/1072562607480909966](https://discord.com/channels/437048931827056642/1001500293441257512/1072562607480909966)
+- [https://intuitiveexplanations.com/tech/replit](https://intuitiveexplanations.com/tech/replit)
+- [https://news.ycombinator.com/item?id=27424195](https://news.ycombinator.com/item?id=27424195)
 
 ## Alternatives
 - [Glitch](https://glitch.com) is a nice IDE platform with a pretty chill [community](https://support.glitch.com). Plus the staff don't ban people for the tiniest reasons.
