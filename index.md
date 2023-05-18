@@ -23,7 +23,9 @@ Soren (an employee at Replit) stated on 7th Feburary 2023 that projects may no l
 What is riju? Riju is similar to [Try It Online (TIO)](https://tio.run/), just recreated by a nice bloke named Radon. Radon was bullied by Amjad Masad for "stealing the execution modes and UI"
 
 ![](https://intuitiveexplanations.com/assets/replit-email-2.png)
-Then threatened the poor lad with a lawsuit, even though other websites which does the same thing exist online. Amjad was deeply hurt as Radon was a "demanding" intern and he felt betrayed.
+
+Then threatened the poor lad with a lawsuit, even though other websites which does the same thing exist online. Amjad was deeply hurt as Radon was a "demanding" intern and he felt "betrayed". This is , by the way, since the Replit legal team has the IQ of a fish.
+
 ![](https://intuitiveexplanations.com/assets/replit-email-5.png)
 
 Of course, after being [viciously torn to shreads](https://news.ycombinator.com/item?id=27424195) on Y Combinator, Amjad comes crawling back and setups a phone call with Radon and gives his permission to publish riju.codes because he is clearly the owner of all IDEs online and we should bow down to the holy Amjad.
