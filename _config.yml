@@ -1,8 +1,8 @@
-title: Don\'t use Replit!
-description: Why you should stop uing Replit!
+title: Don't use Replit!
+description: Why you should stop uing Replit, and some alternatives
 theme: just-the-docs
 
-url: https://dontusereplit.com
+url: https://dontuserepl.com
 
 aux_links:
-  Template Repository: https://github.com/dontuserepl/why
+  GitHub Repository: https://github.com/dontuserepl/why
