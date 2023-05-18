@@ -16,9 +16,17 @@ riju是什么？Riju类似于[Try It Online (TIO)](https://tio.run/)，由名叫
 
 ![](https://intuitiveexplanations.com/assets/replit-email-2.png)
 
+> **翻译:** 哦，很酷！是的，有几个类似TIO的平台。Replit即将支持无限语言。也就是说，用户可以运行任何和一切，包括同一语言的不同版本。你的设计感觉有点熟悉。Replit的版本是否也有相同的运行按钮位置呢？
+
+> **翻译:** 经过深入的研究，我觉得这确实像一个克隆，甚至包括语言描述、执行模式和界面设计。我们有很多山寨产品，所以我不太担心，但是这感觉很奇怪/不道德，因为你曾在我们公司工作，现在却在复制我们内部的设计决策（即使是不好的决策）。
+
+如果你有兴趣回来，我们现在规模更大了。我们雇佣了资深工程师和经理。请查看我们的博客，了解一些最新的工作：https://blogueplit.com/welcome-to-the-wonderful-world-of-clusters
+
 然后，即使在线上存在其他执行相同功能的网站，Amjad也以诉讼威胁这个可怜的小伙子。Amjad因Radon是一个“苛刻”的实习生，并且他感到“背叛”而深受伤害。顺便说一句，这是因为Replit的法务团队的智商水平如同鱼类。
 
 ![](https://intuitiveexplanations.com/assets/replit-email-5.png)
+> **翻译:** 嗨，Radon，感谢接听我的电话。正如我们讨论的，对于威胁采取法律行动，我承认自己是错的。虽然我仍然认为设计决策的整体是明显的特权复制，但我不认为这需要我做出那样的反应。对此我感到抱歉，并且我允许你发布Riju。在我们挂断电话之前，你说过"我不会再复制更多东西了"，虽然我不会强迫你遵守，但我希望你能这样做。请找到新的做事方式，犯新的错误！祝一切顺利，
+Amjad
 
 当然，在Y Combinator上被[恶意批评](https://news.ycombinator.com/item?id=27424195)后，Amjad爬回来，与Radon安排了一次电话会议，并允许发布riju.codes，因为他显然是在线IDE的所有者，我们应该向圣洁的Amjad俯首。
 
