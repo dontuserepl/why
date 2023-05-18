@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-**Translations**: [EN](/) | [ES](/spanish.html) | | [FR](/french.html) | [JA](/japanese.html) | [ZH](/chinese.html)
+**Translations**: [EN](/) \| [ES](/spanish.html) \| [FR](/french.html) \| [JA](/japanese.html) \| [ZH](/chinese.html)
 
 Replit (also Repl.it) is a free online IDE with an active thriving (and dying) community..
 
