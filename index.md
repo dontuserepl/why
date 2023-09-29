@@ -14,6 +14,13 @@ We are a small group of people that loved repl but, no longer do so and would re
 ## Synopsis
 Replit has had many controversies such as their awful staff members, deletion and suspension of accounts for no reason, and even the possibility of them removing the domains (like Heroku).
 
+## Deployment Only
+Soren released an [update](https://blog.replit.com/hosting-changes) to the Ask community on 29 September 2023
+
+> Always On will be fully removed from the product on January 1st, 2024. After January 1st, Deployments will be the only way to host applications on Replit.
+
+Essentally making Replit just a glorified Heroku, but with an IDE plugin.
+
 ## No more free websites?
 Please note, this is **NOT** final and this is **NOT** 100% verified.
 
@@ -37,6 +44,9 @@ Of course, after being [viciously torn to shreads](https://news.ycombinator.com/
 - [https://discord.com/channels/437048931827056642/1001500293441257512/1072562607480909966](https://discord.com/channels/437048931827056642/1001500293441257512/1072562607480909966)
 - [https://intuitiveexplanations.com/tech/replit](https://intuitiveexplanations.com/tech/replit)
 - [https://news.ycombinator.com/item?id=27424195](https://news.ycombinator.com/item?id=27424195)
+- [https://blog.replit.com/hosting-changes](https://blog.replit.com/hosting-changes)
+- [https://ask.replit.com/t/changes-to-hosting-on-replit/68506/7](https://ask.replit.com/t/changes-to-hosting-on-replit/68506/7)
+
 
 ## Alternatives
 - [Glitch](https://glitch.com) is a nice IDE platform with a pretty chill [community](https://support.glitch.com). Plus the staff don't ban people for the tiniest reasons.
@@ -48,3 +58,6 @@ Get out while you can.
 Email: dontuserepl at gmail dot com.
 
 We DO check this email often.
+
+## Last Updated
+4:35 29 September (GMT) - Updated with "deployment only" news.
